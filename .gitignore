@@ -1,7 +1,9 @@
-.csv
-.xlsx
-.xml
-.pdf
-.html
+*.csv
+*.xlsx
+*.xml
+*.pdf
+*.html
+*.txt
+pew/
 secrets.txt
 .ipynb_checkpoints
