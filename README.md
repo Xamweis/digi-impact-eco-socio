@@ -2,4 +2,4 @@
 
 > social.ipynb - mchine leraning models, feature selection techniques
 
-![Screenshot](slides/ih_final.png)
+![Screenshot](slides/ih_final.png | width=100)
